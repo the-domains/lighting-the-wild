@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Lighting the Wild]]></title>
         <description><![CDATA[Lighting the Wild]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lighting-the-wild/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 02:42:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 02:50:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lighting-the-wild/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sometimes you just need full illumination. I loved the bark on this tree near the road and the ivy really complimented Whitney's suit. Though fighting the flu, Whitney climbed the steep mound in her competition heels and sought her balance. I used a 5' wide octabox camera right to fill in all the shadows created by the sunlight hitting her camera left.  All too often photographers place the light too far away from the subject. Light decreases exponentially in both power and quality over distance. So I usually place my light just outside of the frame to maintain both.]]></title>
+            <description><![CDATA[<article><h1>Sometimes you just need full illumination. I loved the bark on this tree near the road and the ivy really complimented Whitney's suit. Though fighting the flu, Whitney climbed the steep mound in her competition heels and sought her balance. I used a 5' wide octabox camera right to fill in all the shadows created by the sunlight hitting her camera left.  All too often photographers place the light too far away from the subject. Light decreases exponentially in both power and quality over distance. So I usually place my light just outside of the frame to maintain both.</h1><p>realdavidartSometimes you just need full illumination. I loved the bark on this tree near the road and the ivy really complimented Whitney's suit. Though fighti</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72862ec9c4f40984a7925a16ea37bb58e328f8bd.png"></article>]]></description>
+            <link>urn:uuid:52b08020-13bb-4909-a7e8-17943e152315</link>
+            <guid isPermaLink="false">a82e7a13-b053-4e64-bb51-9b55eac9e35d</guid>
+            <pubDate>Sat, 05 Mar 2016 02:47:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I am playing with the use of black and white overlay blend mode filters to enhance freckles in photos]]></title>
             <description><![CDATA[<article><h1>I am playing with the use of black and white overlay blend mode filters to enhance freckles in photos</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ab52a1aa91b2a9cff174ad4ef202b925a52fd15.png"></article>]]></description>
