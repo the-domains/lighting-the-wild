@@ -1,7 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -12,29 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.7567269126884639
   brandStrength: 0.4266442
-  lightness: 0.8815120183862746
+  rhythmicContrast: 0.6782696535810828
   brandColors:
     - '#1E2A32'
     - '#000000'
     - '#414D55'
     - '#60E0E5'
     - '#65B5B3'
-  rhythmicContrast: 0.6782696535810828
+  lightness: 0.8815120183862746
 typography_spectrum: 0.123946
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-favicon: null
+layout_spectrum: 0.5118044
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Lighting the Wild
