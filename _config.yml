@@ -1,7 +1,7 @@
 name: Lighting the Wild
 favicon: null
 layout_spectrum: 0.5118044
-typography_spectrum: 0.123946
+typography_spectrum: 0.51791
 collections:
   - index:
       path: /
