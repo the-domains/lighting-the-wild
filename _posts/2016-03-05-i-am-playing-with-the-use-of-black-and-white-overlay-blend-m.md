@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T02:41:07.617Z'
-dateModified: '2016-03-05T02:40:13.019Z'
+datePublished: '2016-03-05T02:47:31.841Z'
+dateModified: '2016-03-05T02:41:15.979Z'
 author: []
 title: I am playing with the use of black and white overlay blend mode filters to enhance freckles in photos
+sourcePath: _posts/2016-03-05-i-am-playing-with-the-use-of-black-and-white-overlay-blend-m.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-i-am-playing-with-the-use-of-black-and-white-overlay-blend-m.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
