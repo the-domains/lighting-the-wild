@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lighting the Wild]]></title>
+        <description><![CDATA[Lighting the Wild]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 02:42:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I am playing with the use of black and white overlay blend mode filters to enhance freckles in photos]]></title>
+            <description><![CDATA[<article><h1>I am playing with the use of black and white overlay blend mode filters to enhance freckles in photos</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ab52a1aa91b2a9cff174ad4ef202b925a52fd15.png"></article>]]></description>
+            <link>urn:uuid:eb89b841-7b5e-41bd-9fe0-ae71ab9ce775</link>
+            <guid isPermaLink="false">49bef017-d30b-4d0e-bca0-6c18c4911cb6</guid>
+            <pubDate>Sat, 05 Mar 2016 02:41:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
