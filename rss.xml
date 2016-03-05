@@ -4,8 +4,15 @@
         <description><![CDATA[Lighting the Wild]]></description>
         <link>https://thegrid.ai/lighting-the-wild/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 02:51:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 02:52:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lighting-the-wild/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I am playing with the use of black and white overlay blend mode filters to enhance freckles in photos]]></title>
+            <description><![CDATA[<article><h1>I am playing with the use of black and white overlay blend mode filters to enhance freckles in photos</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ab52a1aa91b2a9cff174ad4ef202b925a52fd15.png"></article>]]></description>
+            <link>urn:uuid:eb89b841-7b5e-41bd-9fe0-ae71ab9ce775</link>
+            <guid isPermaLink="false">49bef017-d30b-4d0e-bca0-6c18c4911cb6</guid>
+            <pubDate>Sat, 05 Mar 2016 02:48:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[From Couch to Female Eye Candy]]></title>
             <description><![CDATA[<article><h1>From Couch to Female Eye Candy</h1><p>Sebastian David weighed 14st 6lb and spent £140 a week on junk food After his father died he embarked upon a strict fitness regime Now down to 10st 7lbs and has become a model An overweight bachelor has gone from bloated belly to bodybuilder in just seven months after ditching a £140-a-week junk food habit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e875d8e2b66d19f7f67a5eef06abd63516033c15.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>urn:uuid:52b08020-13bb-4909-a7e8-17943e152315</link>
             <guid isPermaLink="false">a82e7a13-b053-4e64-bb51-9b55eac9e35d</guid>
             <pubDate>Sat, 05 Mar 2016 02:48:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I am playing with the use of black and white overlay blend mode filters to enhance freckles in photos]]></title>
-            <description><![CDATA[<article><h1>I am playing with the use of black and white overlay blend mode filters to enhance freckles in photos</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ab52a1aa91b2a9cff174ad4ef202b925a52fd15.png"></article>]]></description>
-            <link>urn:uuid:eb89b841-7b5e-41bd-9fe0-ae71ab9ce775</link>
-            <guid isPermaLink="false">49bef017-d30b-4d0e-bca0-6c18c4911cb6</guid>
-            <pubDate>Sat, 05 Mar 2016 02:47:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
