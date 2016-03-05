@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-05T02:47:31.849Z'
+datePublished: '2016-03-05T02:48:34.290Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: From Couch to Female Eye Candy
-dateModified: '2016-03-05T02:32:56.174Z'
+dateModified: '2016-03-05T02:47:52.698Z'
 sourcePath: _posts/2016-03-05-from-couch-to-female-eye-candy.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
