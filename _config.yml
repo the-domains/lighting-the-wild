@@ -1,28 +1,40 @@
-name: Lighting the Wild
 favicon: null
-layout_spectrum: 0.9000013035256416
-typography_spectrum: 0.6103102685883641
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Lighting the Wild
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.3685664194636047
-  lightness: 0.8815120183862746
-  saturation: 0.7567269126884639
-  rhythmicContrast: 0.6782696535810828
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.7567269126884639
+  brandStrength: 0.4266442
+  lightness: 0.8815120183862746
+  brandColors:
+    - '#1E2A32'
+    - '#000000'
+    - '#414D55'
+    - '#60E0E5'
+    - '#65B5B3'
+  rhythmicContrast: 0.6782696535810828
+typography_spectrum: 0.6103102685883641
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
