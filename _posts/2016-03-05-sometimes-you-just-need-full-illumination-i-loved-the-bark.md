@@ -4,19 +4,19 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:52b08020-13bb-4909-a7e8-17943e152315'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "realdavidartSometimes you just need full illumination. I loved the bark on this tree near the road and the ivy really complimented Whitney's suit. Though fighti"
-datePublished: '2016-03-05T02:47:31.546Z'
-dateModified: '2016-03-05T02:46:51.880Z'
+datePublished: '2016-03-05T02:48:34.102Z'
+dateModified: '2016-03-05T02:47:52.689Z'
 author: []
 title: "Sometimes you just need full illumination. I loved the bark on this tree near the road and the ivy really complimented Whitney's suit. Though fighting the flu, Whitney climbed the steep mound in her competition heels and sought her balance. I used a 5' wide octabox camera right to fill in all the shadows created by the sunlight hitting her camera left.  All too often photographers place the light too far away from the subject. Light decreases exponentially in both power and quality over distance. So I usually place my light just outside of the frame to maintain both."
 authors: []
 publisher:
+  favicon: null
   name: ''
   domain: ''
   url: null
-  favicon: null
 sourcePath: _posts/2016-03-05-sometimes-you-just-need-full-illumination-i-loved-the-bark.md
 published: true
 _context: 'http://schema.org'
