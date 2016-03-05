@@ -1,8 +1,4 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+name: Lighting the Wild
 opengraph:
   image: null
   type: null
@@ -21,20 +17,24 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.7567269126884639
+  saturation: 0.4887218
   brandStrength: 0
-  lightness: 0.8815120183862746
+  lightness: 0.4949875
   brandColors:
     - '#1E2A32'
     - '#000000'
     - '#414D55'
     - '#60E0E5'
     - '#65B5B3'
-  rhythmicContrast: 0.6782696535810828
+  rhythmicContrast: 0.8659148
 typography_spectrum: 0.123946
-layout_spectrum: 0.5118044
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-name: Lighting the Wild
+favicon: null
+layout_spectrum: 0.5118044
